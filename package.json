@@ -1,0 +1,24 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "\"this is front end javacript ui \"",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pushapak28/FrontEndJavascriptUI.git"
+  },
+  "author": "Pushapak kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pushapak28/FrontEndJavascriptUI/issues"
+  },
+  "homepage": "https://github.com/pushapak28/FrontEndJavascriptUI#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
